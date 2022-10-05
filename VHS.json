@@ -1,0 +1,27 @@
+{
+    
+        "vhs": {
+            "videoName":"Chirstmas Day",
+            "description":"the frist Christmas",
+            "rating":"PG",
+            "tapeCondition":"fair",
+            "content_warning":"none",
+            "used": "false"
+        },
+        "vhs": {
+            "videoName":"VegieTales",
+            "description":"Best movie ever",
+            "rating":"PG",
+            "tapeCondition":"good",
+            "content_warning":"none",
+            "used": "false"
+        },
+        "vhs": {
+            "videoName":"Lego City Collection",
+            "description":"A collection of LEgo City adds",
+            "rating":"PG",
+            "tapeCondition":"good",
+            "content_warning":"none",
+            "used": "true"
+        }
+}
